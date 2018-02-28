@@ -151,7 +151,7 @@
   #define MSG_MOVE_AXIS                       _UxGT("Move axis")
 #endif
 #ifndef MSG_AUTO_BED_LEVEING
-  #define MSG_AUTO_BED_LEVEING                _UxGT("Auto leveing")
+  #define MSG_AUTO_BED_LEVEING                _UxGT("Auto leveling")
 #endif
 
 
@@ -1053,7 +1053,7 @@
 #endif
 
 #ifndef MSG_ADJUST_Z
-#define MSG_ADJUST_Z                "Adjust Z-axi"
+#define MSG_ADJUST_Z                "Adjust Z-axis"
 #endif
 // reload  adjust z axis menu  line 1
 #ifndef MSG_ADJUST_Z_AXIS_L1
@@ -1066,7 +1066,7 @@
 #endif
 // reload  adjust z axis menu  line 3
 #ifndef MSG_ADJUST_Z_AXIS_L3
-#define MSG_ADJUST_Z_AXIS_L3	"Threed times"
+#define MSG_ADJUST_Z_AXIS_L3	"Three times"
 #endif
 // reload  adjust z axis menu  line 4
 #ifndef MSG_ADJUST_Z_AXIS_L4
